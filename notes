@@ -1,0 +1,6 @@
+node-module:-gets created after npm install
+git-ignore:-the files which we don't want to push in github
+package-lock.json:-dependecies got lock 
+readme:-basic information(not necessary)
+manifest.json:-for mobile applications,metatag get used when installed in mobile app
+index.html:-SPA(single page application)
